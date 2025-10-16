@@ -1,0 +1,19 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.browser-switcher" path="/org/gnome/shell/extensions/browser-switcher/">
+    <key name="last-used-browser" type="s">
+      <default>''</default>
+      <summary>Last used browser</summary>
+      <description>Stores the last used browser in format 'name|command'</description>
+    </key>
+    <key name="custom-browsers" type="as">
+      <default>[]</default>
+      <summary>Custom browsers</summary>
+      <description>Array of custom browsers in format 'name|command'</description>
+    </key>
+    <key name="use-last-browser" type="b">
+      <default>true</default>
+      <summary>Use last used browser on startup</summary>
+      <description>If true, the last used browser will be set as default on startup. If false, the system default browser will be used.</description>
+    </key>
+  </schema>
+</schemalist>

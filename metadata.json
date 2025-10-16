@@ -1,0 +1,10 @@
+{
+  "description": "Quickly switch between installed browsers from the top bar. Supports native packages, Flatpak apps, and custom browser commands.",
+  "name": "Browser Switcher",
+  "shell-version": ["45", "46", "47", "48"],
+  "url": "https://github.com/deliarmin/gnome-browser-switcher",
+  "uuid": "browser-switcher@deliarmin",
+  "version": 1,
+  "gettext-domain": "browser-switcher",
+  "settings-schema": "org.gnome.shell.extensions.browser-switcher"
+}

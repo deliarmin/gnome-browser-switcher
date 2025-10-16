@@ -1,0 +1,29 @@
+# Build files
+build/
+*.zip
+*.shell-extension.zip
+
+# Compiled schemas (will be regenerated)
+schemas/gschemas.compiled
+
+# Dev docs
+docs/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation build files
+*.pdf
+*.html
+
+# Temporary files
+*.tmp
+*.bak
