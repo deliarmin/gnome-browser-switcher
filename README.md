@@ -25,13 +25,11 @@ cd browser-switcher
 ./install.sh
 ```
 
-Then restart GNOME Shell (Alt+F2, type 'r', press Enter) or log out and back in.
-
 ## Usage
 
 1. **Switch Browser**: Click the extension icon in the top bar and select a browser from the list
 2. **Add Custom Browser**: 
-   - Click the icon → Settings
+   - Click the icon -> Settings
    - Click "Add Custom Browser"
    - Enter name and command (e.g., `/usr/bin/mybrowser %u`)
 3. **Remove Custom Browser**: Click the trash icon next to the browser in settings
@@ -53,7 +51,7 @@ The extension automatically detects:
 
 ## Requirements
 
-- GNOME Shell 45, 46, 47, or 48
+- GNOME Shell 48 (might work on older versions as well, but has not been tested)
 - `xdg-settings` (usually pre-installed)
 
 ## Screenshots
