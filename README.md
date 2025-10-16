@@ -57,8 +57,9 @@ The extension automatically detects:
 - `xdg-settings` (usually pre-installed)
 
 ## Screenshots
-
-[Add screenshots here]
+![Browser Switcher](screenshots/screenshot_001.png)
+![Settings](screenshots/screenshot_002.png)
+![Settings](screenshots/screenshot_003.png)
 
 ## Contributing
 
